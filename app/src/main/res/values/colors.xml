@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="app_color">#17D487</color>
+    <color name="app_click_color">#159F67</color>
+
+
+    <color name="key_normal_color">#FFFFFF</color>
+    <color name="key_select_color">#DADADA</color>
+
+    <color name="color_white_999999">#999999</color>
+    <color name="color_white">#FFFFFF</color>
+
+
+</resources>
